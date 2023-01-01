@@ -3,8 +3,4 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
-
-### algo mas !!!!
-aqui va algo mas desde hithub.
+## Estos cambios son nuevos
